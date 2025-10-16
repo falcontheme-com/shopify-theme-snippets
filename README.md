@@ -5,35 +5,30 @@ Contrary to other snippet codes, the most important feature is that you don't ha
 
 All you have to do to install our snippets is to copy and paste the code found mostly in one file. Also, we provide detailed information, an installation guide, and a complimentary video (YouTube) for each snippet. 
 
-## These snippets are sponsored by "Falcon Pro" — The most advanced Shopify theme ever built!
-Take your Shopify store to the next level with **Falcon Pro**, our next-generation Shopify theme.
-
-Take a look 👉 https://www.falcontheme.com
-
 ## Snippet list
-1. KS Countdown Sale [](Learn more(
-2. KS Contact Form Builder
-3. KS Recently Viewed
-4. KS Product Custom Properties
-5. KS Cart Drawer Upsell
-6. KS Sticky Add To Cart
-7. KS Color Swatches
-8. KS Quantity Breaks
-9. KS Cart Goal
-10. KS Marquee
-11. KS Testimonials Slider
-12. KS Inventory Bar]
-13. KS Newsletter Popup
-14. KS LookBook
-15. KS Bundle Builder
-16. KS Shipping Calculator
-17. KS Image Compare
-18. KS Parallax Image
-19. KS Shoppable Videos
-20. KS Store Locator
-21. KS Table Compare
-22. KS Sticky Image
-23. KS Media Slider
+1. KS Countdown Sale
+3. KS Contact Form Builder
+4. KS Recently Viewed
+5. KS Product Custom Properties
+6. KS Cart Drawer Upsell
+7. KS Sticky Add To Cart
+8. KS Color Swatches
+9. KS Quantity Breaks
+10. KS Cart Goal
+11. KS Marquee
+12. KS Testimonials Slider
+13. KS Inventory Bar]
+14. KS Newsletter Popup
+15. KS LookBook
+16. KS Bundle Builder
+17. KS Shipping Calculator
+18. KS Image Compare
+19. KS Parallax Image
+20. KS Shoppable Videos
+21. KS Store Locator
+22. KS Table Compare
+23. KS Sticky Image
+24. KS Media Slider
 23. KS Pricing Plans
 24. KS Fancy Slideshow
 25. KS Age Verification
@@ -44,11 +39,10 @@ Take a look 👉 https://www.falcontheme.com
 https://ks-snippets.myshopify.com
 
 ## Downloads
-https://github.com/kondasoft/shopify-theme-snippets/releases/tag/all-snippets
+https://www.falcontheme.com/collections/shopify-snippets
 
 ## YouTube video playlist
 https://www.youtube.com/playlist?list=PLkahmWw6Mp_WU1VQcbJLcx-75Is8oU4LK
-
 
 ## Support
 Please submit a [new issue](https://github.com/kondasoft/ks-shopify-snippets/issues/new) in case you want to submit a bug or feature request.
